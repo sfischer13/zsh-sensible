@@ -1,5 +1,8 @@
 # sensible.zsh
 
+[![GitHub license](https://img.shields.io/github/license/sfischer13/zsh-sensible.svg)](https://github.com/sfischer13/zsh-sensible)
+[![Maintenance](https://img.shields.io/maintenance/yes/2016.svg)](https://github.com/sfischer13/zsh-sensible)
+
 Sensible default settings for Zsh that most people can agree upon.  
 
 ## Requirements
@@ -33,3 +36,4 @@ Don’t expect too many! After all, this is a conservative project.
 
 Copyright (c) 2016 Stefan Fischer  
 `sensible.zsh` is released under the [MIT license](https://github.com/sfischer13/zsh-sensible/blob/master/LICENSE).
+
