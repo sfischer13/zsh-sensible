@@ -12,25 +12,53 @@ Sensible default settings for Zsh that most people can agree upon.
 
 ## Installation
 
-### Manual
-
-1) Clone this repository:
+### It’s easy!
 
 ```
 git clone https://github.com/sfischer13/zsh-sensible.git ~/.zsh/zsh-sensible
+cd ~/.zsh/zsh-sensible
+make
 ```
 
-2) Append this line to your `.zshrc`:
+Finally, open a *new* Zsh session.
+
+### Plugin managers
+
+Alternatively, `zsh-sensible` can be used with many of the Zsh plugin managers, too.
+
+* [antigen](https://github.com/zsh-users/antigen)
+* [zgen](https://github.com/tarjoilija/zgen)
+* [zplug](https://github.com/b4b4r07/zplug)
+
+#### antigen
 
 ```
-source ~/.zsh/zsh-sensible/sensible.zsh
+antigen bundle sfischer13/zsh-sensible
 ```
 
-3) Open a new Zsh session.
+#### zgen
+
+```
+zgen load sfischer13/zsh-sensible
+```
+
+#### zplug
+
+```
+zplug "sfischer13/zsh-sensible"
+```
+
+#### oh-my-zsh
+
+I was told that `oh-my-zsh` users could clone this repository to `custom/plugins`.
 
 ## Updates
 
 Don’t expect too many! After all, this is a conservative project.
+
+## Usage
+
+Start a *new* Zsh terminal and enjoy! You won’t notice much, though.
 
 ## License
 
