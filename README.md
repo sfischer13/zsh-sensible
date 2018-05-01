@@ -32,6 +32,12 @@ Alternatively, `zsh-sensible` can be used with many of the Zsh plugin managers, 
 * [zgen](https://github.com/tarjoilija/zgen)
 * [zplug](https://github.com/b4b4r07/zplug)
 
+#### antibody
+
+```
+antibody bundle sfischer13/zsh-sensible
+```
+
 #### antigen
 
 ```
