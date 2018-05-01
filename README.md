@@ -1,9 +1,11 @@
 # sensible.zsh
 
-[![GitHub license](https://img.shields.io/github/license/sfischer13/zsh-sensible.svg)](https://github.com/sfischer13/zsh-sensible)
-[![Maintenance](https://img.shields.io/maintenance/yes/2016.svg)](https://github.com/sfischer13/zsh-sensible)
-
 Sensible default settings for Zsh that most people can agree upon.  
+This should be a good first configuration if you’re new to Zsh.
+
+In contrast to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), **it’s not a way of life!**
+
+This plugin was inspired by [vim-sensible](https://github.com/tpope/vim-sensible).
 
 ## Requirements
 
